@@ -1,0 +1,13 @@
+.card{
+    transition: 0.3s;
+    border-radius: 10px; /* 5px rounded corners */
+    margin: 3em 41em 0em 33em;
+    border: 2px solid hsl(217, 54%, 11%);
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.7);
+    text-align: center;
+    padding: 1em;
+    
+}
+p{
+    padding: 1.3em;
+}
